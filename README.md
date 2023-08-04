@@ -40,7 +40,7 @@ Throughout the project, the following DAX commands were used to perform calculat
 The interactive dashboard developed as part of this project provides a comprehensive view of Adventure Works' sales performance and customer behavior.
 
 # Overall Dashboard
-![dashboard](img/p1.png)
+![dashboard](img/pq.png)
 
 
 Here is a brief overview of the dashboard components:
