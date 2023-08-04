@@ -47,7 +47,7 @@ Here is a brief overview of the dashboard components:
 
 1. **Weekly Metrics**: Visualizations showing weekly revenue, profit, and return rate orders.![dashboard](img/p4.png)
 2. **Monthly Trends**: Visualizations displaying monthly revenue, orders, and returns to identify patterns over time.![dashboard](img/p5.png)
-3. **Most Returned and Most Ordered Items**: Charts highlighting the products with the highest return rate and the most popular items.![dashboard](img/p6.png)
+3. **Most Returned and Most Ordered Items**: Highlighting products with the highest return rate and the most popular items.![dashboard](img/p6.png)
 4. **Customer Analysis**: Metrics such as the total number of unique customers and their contribution to revenue.![dashboard](img/p7.png)
 5. **Top Customers**: Visualizing the top customers based on their revenue contribution.![dashboard](img/p8.png)
 
