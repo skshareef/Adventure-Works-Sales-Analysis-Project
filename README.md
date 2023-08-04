@@ -45,11 +45,12 @@ The interactive dashboard developed as part of this project provides a comprehen
 
 Here is a brief overview of the dashboard components:
 
-1. **Weekly Metrics**: Visualizations showing weekly revenue, profit, and return rate orders.
+1. **Weekly Metrics**: Visualizations showing weekly revenue, profit, and return rate orders.![dashboard](img/pq.png)
 2. **Monthly Trends**: Visualizations displaying monthly revenue, orders, and returns to identify patterns over time.
 3. **Most Returned and Most Ordered Items**: Charts highlighting the products with the highest return rate and the most popular items.
 4. **Customer Analysis**: Metrics such as the total number of unique customers and their contribution to revenue.
 5. **Top Customers**: Visualizing the top customers based on their revenue contribution.
+![dashboard](img/p3.png)
 
 ## Conclusion
 
