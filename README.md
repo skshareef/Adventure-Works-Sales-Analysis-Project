@@ -37,7 +37,13 @@ Throughout the project, the following DAX commands were used to perform calculat
 
 ## Dashboard Overview
 
-The interactive dashboard developed as part of this project provides a comprehensive view of Adventure Works' sales performance and customer behavior. Here is a brief overview of the dashboard components:
+The interactive dashboard developed as part of this project provides a comprehensive view of Adventure Works' sales performance and customer behavior.
+
+# Overall Dashboard
+![dashboard](img/p1.png)
+
+
+Here is a brief overview of the dashboard components:
 
 1. **Weekly Metrics**: Visualizations showing weekly revenue, profit, and return rate orders.
 2. **Monthly Trends**: Visualizations displaying monthly revenue, orders, and returns to identify patterns over time.
